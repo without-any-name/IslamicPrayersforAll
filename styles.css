@@ -4,8 +4,7 @@
     color: #ffffff;
 }
 
-.eng {
-    
+.eng {  
     text-align: left;
 }
 
@@ -14,7 +13,6 @@
 }
 
 .title {
-    font-weight: bold;
     border-bottom: 3px solid #033500;
     color: #033500;
     text-align: center;
