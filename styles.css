@@ -1,0 +1,77 @@
+.jumbotron.jumbotron-fluid {
+    background-color: #033500;
+    text-align: center;
+    color: #ffffff;
+}
+
+.eng {
+    
+    text-align: left;
+}
+
+.ar {
+    text-align: right;
+}
+
+
+.title {
+    border-bottom: 3px solid #033500;
+    color: #033500;
+    text-align: center;
+}
+
+
+a[href*="html"] {
+    text-decoration: none;
+    margin: 2.5px;
+    background-color: #027227;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+
+a[href*="html"]:hover {
+    background-color: #033500;
+    color: #ffffff;
+}
+
+.alert {
+   margin: 2rem;
+   text-align: center;
+}
+
+.btn-success {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.btn-outline-success {
+    margin: 2rem;
+}
+
+.card-title {
+    color: #027227;
+}
+
+.times {
+    color: #027227;
+    border-top: 2px solid #027227;
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: green;
+}
+
+.card {
+    margin: 2rem;
+    color: #011638;
+}
+
+.arl {
+    text-align: right;
+    direction: rtl;
+}

@@ -1,0 +1,6 @@
+Below are the main sources outside of this year's course material that helped me create this project. All the help I got from the following (and perhaps other) sources doesn't violate the course's academic honesty policy, for I have created this project by myself and only used these sources to help me learn more information to create this project.
+https://stackoverflow.com/questions/14884523/can-a-div-have-multiple-classes-twitter-bootstrap#:~:text=Absolutely%2C%20divs%20can%20have%20more,each%20class%20with%20a%20space. --> helped me learn how to include more than one class for a tag in HTML.
+https://stackoverflow.com/questions/18750803/getting-the-button-into-the-top-right-corner-inside-the-div-box/18750849 --> helped me learn how to align a button to a corner.
+https://stackoverflow.com/questions/19438895/add-a-new-line-in-innerhtml --> helped me learn how to add a new line with ".innerHTML".
+https://www.w3schools.com/css/css_link.asp --> helped me learn how to style a link.
+https://stackoverflow.com/questions/10431037/css-right-aligned-list --> helped me learn how to align a list to the right.
